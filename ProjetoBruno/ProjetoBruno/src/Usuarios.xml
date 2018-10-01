@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Usuarios>
+  <Usuario>
+    <Nome>Agamenon</Nome>
+    <Imagem>\imagem\chaves.jpg</Imagem>
+    <Senha>1234</Senha>
+    <Cargo>Gerente</Cargo>
+    <Rua>Brochado de Almeida</Rua>
+    <Numero>-9</Numero>
+    <Bairro>Major Novaes</Bairro>
+  </Usuario>
+  <Usuario>
+      <Nome>Benigno</Nome>
+      <Imagem>\imagem\quico.jpg</Imagem>
+      <Senha>1234</Senha>
+      <Cargo>funcionario</Cargo>
+      <Rua>Crisóstomo</Rua>
+      <Numero>-99</Numero>
+      <Bairro>Crisóstomos Belai</Bairro>
+    </Usuario>
+</Usuarios>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Carros>
+  <carro>
+    <modelo>RILEY RMA 1½-LITRE 4-DOOR SALOON</modelo>
+    <imagem>\imagem\riley.jpg</imagem>
+    <renavam>1</renavam>
+    <preco>10</preco>
+    <cor>Bege</cor>
+    <km>111.111 Km</km>
+    <combustivel>Gasolina</combustivel>
+    <cambio>Manual</cambio>
+    <portas>4</portas>
+  </carro>
+  <carro>
+    <modelo>VOLKSWAGEN SANTANA</modelo>
+    <imagem>\imagem\santana.jpg</imagem>
+    <renavam>2</renavam>
+    <preco>20</preco>
+    <cor>Azul</cor>
+    <km>0 Km</km>
+    <combustivel>Gasolina</combustivel>
+    <cambio>Manual</cambio>
+    <portas>2</portas>
+  </carro>
+  <carro>
+    <modelo>VOLKSWAGEN KOMBI PICK-UP CABINE SIMPLES</modelo>
+    <imagem>\imagem\kombi.jpg</imagem>
+    <renavam>3</renavam>
+    <preco>30</preco>
+    <cor>Branco</cor>
+    <km>111.111 Km</km>
+    <combustivel>Gasolina</combustivel>
+    <cambio>Manual</cambio>
+    <portas>2</portas>
+  </carro>
+</Carros>

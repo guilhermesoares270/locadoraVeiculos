@@ -1,0 +1,12 @@
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\bin\Debug\ProjetoBruno.exe.config
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\bin\Debug\ProjetoBruno.exe
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\bin\Debug\ProjetoBruno.pdb
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.Form1.resources
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.Properties.Resources.resources
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.Telas.LoginUI.resources
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.exe
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.pdb
+C:\Users\Guilherme\source\repos\ProjetoBruno\ProjetoBruno\obj\Debug\ProjetoBruno.Telas.Principal.resources
